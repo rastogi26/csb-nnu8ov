@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://rastogi26.github.io/csb-nnu8ov/precache-manifest.efa4f91a8ecc014afd03ac5ee42a1e38.js"
+  "https://rastogi26.github.io/csb-nnu8ov/precache-manifest.d58f5915eb820f41e26bc13cbb0320cb.js"
 );
 
 self.addEventListener('message', (event) => {
