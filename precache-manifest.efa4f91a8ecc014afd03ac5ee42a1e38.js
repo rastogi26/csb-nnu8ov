@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "99c17c3b0cd632207fb6b3682b6a3dbf",
+    "revision": "e1e8fd1827f81b3189864c0e4de3f9ee",
     "url": "https://rastogi26.github.io/csb-nnu8ov/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://rastogi26.github.io/csb-nnu8ov/static/js/2.0e3b9301.chunk.js"
   },
   {
-    "revision": "88bd2c5c397eff501c1c",
-    "url": "https://rastogi26.github.io/csb-nnu8ov/static/js/main.fd9f5b64.chunk.js"
+    "revision": "c0c10b9974cc6d115477",
+    "url": "https://rastogi26.github.io/csb-nnu8ov/static/js/main.7d59d21f.chunk.js"
   },
   {
     "revision": "4b7ca0e4a7e6db8e83b7",
